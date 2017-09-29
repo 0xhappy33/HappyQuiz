@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "638610077368",
+    "firebase_url": "https://happyquiz-eb981.firebaseio.com",
+    "project_id": "happyquiz-eb981",
+    "storage_bucket": "happyquiz-eb981.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638610077368:android:3a593baeac93d47a",
+        "android_client_info": {
+          "package_name": "com.happycity.project.happyquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638610077368-nm04g2850p6drm2ga81qi0vauotdh4o6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happycity.project.happyquiz",
+            "certificate_hash": "8b1bb011d280208669b75582d90a303d4ac33014"
+          }
+        },
+        {
+          "client_id": "638610077368-emns5i821ouf81p5jaq9oi4r53te7rie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3gKrPx0qFiR1mqPqROUtyuhx-JvJPCiU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638610077368-emns5i821ouf81p5jaq9oi4r53te7rie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
